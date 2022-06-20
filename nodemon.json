@@ -1,0 +1,6 @@
+{
+  "events": {
+    "start": "clear"
+  },
+  "ignore": ["./config.js", "json/description.js", "db.json"]
+}
